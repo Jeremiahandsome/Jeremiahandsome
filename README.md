@@ -1,11 +1,10 @@
 ![](https://qcloudimg.tencent-cloud.cn/raw/43911afbf066e55680a309593ae55c28.jpg)
 
+[![wakatime](https://wakatime.com/badge/user/018e704f-2883-46d1-a37b-2d9627fbfbff.svg)](https://wakatime.com/@018e704f-2883-46d1-a37b-2d9627fbfbff)
 
 
 
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=jeremiawang&langs_count=10)
-
+![](https://github-readme-stats.vercel.app/api/wakatime?username=jeremiawang&langs_count=8)
 
 
 
